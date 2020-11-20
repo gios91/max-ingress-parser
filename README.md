@@ -11,4 +11,9 @@ A supported Python version must be installed on our running environment
 where:
 * `resources/bookmarkedportals.json` is an example of JSON input file
 * `output_bookmarkedportals.csv` is the path where to store output CSV file 
-     
+
+## Credits
+
+Gios :copyright:
+
+Dedicated to: Fedezi :heart: :rocket:
