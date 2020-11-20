@@ -1,0 +1,7 @@
+Beata wergine di San Luca; https://intel.ingress.com/intel?ll=44.494341,11.288742&z=17&pll=44.496274,11.286308; 0;
+CHiesa di S andrea; https://intel.ingress.com/intel?ll=44.494341,11.288742&z=17&pll=44.495968,11.286125; 0;
+Memorial; https://intel.ingress.com/intel?ll=44.494341,11.288742&z=17&pll=44.495351,11.285878; 0;
+La barca della barca; https://intel.ingress.com/intel?ll=44.494341,11.288742&z=17&pll=44.494756,11.286025; 0;
+Giardino di piazza giowanni XXIII; https://intel.ingress.com/intel?ll=44.494341,11.288753&z=17&pll=44.494334,11.285054; 0;
+Giardino di Rinaldo Rigola; https://intel.ingress.com/intel?ll=44.494792,11.288211&z=17&pll=44.494056,11.286271; 0;
+Giardino guido Horn d arturo; https://intel.ingress.com/intel?ll=44.494341,11.288753&z=17&pll=44.493442,11.287474; 0;

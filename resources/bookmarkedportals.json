@@ -1,0 +1,475 @@
+{
+    "maps": {
+        "idOthers": {
+            "label": "Others",
+            "state": 1,
+            "bkmrk": {
+                "id16051196770454123": {
+                    "label": "Gasleo",
+                    "latlng": "44.49114,11.316669",
+                    "z": 16
+                },
+                "id16051197012624245": {
+                    "label": "Barca",
+                    "latlng": "44.493693,11.285598",
+                    "z": 17
+                },
+                "id16051197142774398": {
+                    "label": "CroceMaxField",
+                    "latlng": "44.486529,11.290727",
+                    "z": 17
+                }
+            }
+        }
+    },
+    "portals": {
+        "id16051194561171162": {
+            "label": "CroceMaxField",
+            "state": 0,
+            "bkmrk": {
+                "id16051194786211361": {
+                    "guid": "d07160e1207248c0bcdf88df377aed0e.16",
+                    "latlng": "44.487184,11.284899",
+                    "label": "ingresso parco Ponte Vecchio"
+                },
+                "id1605119500909156": {
+                    "guid": "a83038dc5de446369e2fca7662f413d8.16",
+                    "latlng": "44.48721,11.286194",
+                    "label": "Playground Pace"
+                },
+                "id16051195044121650": {
+                    "guid": "d6308175f2644585bba65bf7f17e56e0.16",
+                    "latlng": "44.487586,11.286648",
+                    "label": "Ingresso parco Pace"
+                },
+                "id1605119508060173": {
+                    "guid": "75fba0ae68c1419c82e79f43022ed138.16",
+                    "latlng": "44.487726,11.287454",
+                    "label": "Monumento Repubblica Costa Rica"
+                },
+                "id16051194861161498": {
+                    "guid": "501bab04fc8d47d499de309a9cef748a.16",
+                    "latlng": "44.486923,11.284867",
+                    "label": "Ponte Masi"
+                },
+                "id16051195114291883": {
+                    "guid": "e60828a6983140db8f4f852c95a7b6f3.16",
+                    "latlng": "44.487469,11.287511",
+                    "label": "In ricordo di Vittorio Arrigoni"
+                },
+                "id16051195144601974": {
+                    "guid": "2512b0407be448ae91d3f024b5e56131.16",
+                    "latlng": "44.487295,11.287276",
+                    "label": "Targa bombardamento Mulino canonica"
+                },
+                "id16051195302302285": {
+                    "guid": "abd0876334fa4e868980201ab9048554.16",
+                    "latlng": "44.487909,11.289705",
+                    "label": "Impianti sportivi 25 aprile"
+                },
+                "id16051195196852142": {
+                    "guid": "41698f1e6b2d4e32aef30256419d04c8.16",
+                    "latlng": "44.48731,11.288945",
+                    "label": "Playground Croce di Casalecchio"
+                },
+                "id16051195171482099": {
+                    "guid": "903301865af84ac19c1faa568b887139.16",
+                    "latlng": "44.486945,11.287292",
+                    "label": "Murales canale di Reno turbina idroelettrica"
+                },
+                "id16051195325802390": {
+                    "guid": "e7bcbf0069c148b4a6a1cb0f345f01bb.16",
+                    "latlng": "44.486509,11.288829",
+                    "label": "Parco Vecchio Galoppatoio"
+                },
+                "id16051195355642440": {
+                    "guid": "c8a6d367960d4abba492f5f36a14e850.16",
+                    "latlng": "44.488708,11.29064",
+                    "label": "Parco Francesco Zanardi"
+                },
+                "id16051195398282520": {
+                    "guid": "5a4d73facea94f19b22f920858a7cb66.16",
+                    "latlng": "44.487547,11.290226",
+                    "label": "Parrocchia di Santa Croce"
+                },
+                "id1605119542516261": {
+                    "guid": "4ee9e8f7664043c88a1c641ab96148c7.16",
+                    "latlng": "44.487312,11.290483",
+                    "label": "Croce luminosa Casalecchio"
+                },
+                "id16051195472362855": {
+                    "guid": "064477eb32b846f988dda5e4e21d78b1.16",
+                    "latlng": "44.488981,11.292448",
+                    "label": "Parco Sportivo Zanardi"
+                },
+                "id16051195495242941": {
+                    "guid": "2601d30f76444fb794c0cd141b630eed.16",
+                    "latlng": "44.486835,11.29212",
+                    "label": "Edicola Caravaggio"
+                },
+                "id16051195558043112": {
+                    "guid": "32a4fc85dfa54251942a2719ca0519fb.16",
+                    "latlng": "44.488082,11.293235",
+                    "label": "Il trenino nel parco Zanardi"
+                },
+                "id1605119558132326": {
+                    "guid": "8c03c5fe08f34ac1bca388438dd106d6.16",
+                    "latlng": "44.48781,11.293459",
+                    "label": "Playground parco Zanardi"
+                },
+                "id16051195615723340": {
+                    "guid": "c8859401c53f49d0a9d78c783091a709.16",
+                    "latlng": "44.487371,11.293958",
+                    "label": "Parco Francesco Zanardi En.2"
+                },
+                "id16051195643323415": {
+                    "guid": "d4c55b32d55e4d479709ccdea4d0715a.16",
+                    "latlng": "44.48681,11.293126",
+                    "label": "Ingresso nascosto parco Zanardi"
+                },
+                "id16051195452632793": {
+                    "guid": "61260348aa5a4f469f13fd54b2ad8833.16",
+                    "latlng": "44.4892,11.29177",
+                    "label": "Memorial Maurizio Cevenini"
+                },
+                "id16051195713083652": {
+                    "guid": "10423da6a69f4ea2bd0d77a1dbf7eb76.16",
+                    "latlng": "44.48466,11.287239",
+                    "label": "Percorso Storico Ciclopedonale Lungo Reno"
+                },
+                "id1605119578244381": {
+                    "guid": "c7178fd6698a4c50bd287937722affd7.16",
+                    "latlng": "44.485861,11.292955",
+                    "label": "Ufficio Postale Croce"
+                },
+                "id16051195760443770": {
+                    "guid": "00e4adc174a547a4bf9cfd94a887d636.16",
+                    "latlng": "44.484641,11.294058",
+                    "label": "Area di salvaguardia \"Jacopo della Quercia\""
+                },
+                "id16051195685643522": {
+                    "guid": "c55bbe2180904d9999eaf3b063bb4d12.16",
+                    "latlng": "44.485043,11.287802",
+                    "label": "Playground ciclabile lungo Reno"
+                },
+                "id16051195523483017": {
+                    "guid": "acc66a3f261e425ba000eb41deb55ae4.16",
+                    "latlng": "44.488326,11.293673",
+                    "label": "Parco Francesco Zanardi"
+                }
+            }
+        },
+        "id1605169781324165": {
+            "label": "Quartiere barca",
+            "state": 0,
+            "bkmrk": {
+                "id1605169814651379": {
+                    "guid": "e033913adcc84e2b9d3909a342829423.11",
+                    "latlng": "44.495968,11.286125",
+                    "label": "Chiesa di S. Andrea"
+                },
+                "id1605169820267452": {
+                    "guid": "d1a3b3fb40d94ab6877c5496a7c3d58b.16",
+                    "latlng": "44.495351,11.285878",
+                    "label": "Memorial"
+                },
+                "id1605169827407565": {
+                    "guid": "acc4bebc7c544ce28415279baf98befd.16",
+                    "latlng": "44.494756,11.286025",
+                    "label": "La barca della Barca"
+                },
+                "id16051698441811053": {
+                    "guid": "a0d66168f226408ea2f0e0d9aeb25a9e.16",
+                    "latlng": "44.492637,11.281309",
+                    "label": "Centro Sportivo Barca"
+                },
+                "id16051698477191259": {
+                    "guid": "efb368a4e16c482182f77c6304c9b441.16",
+                    "latlng": "44.494056,11.286271",
+                    "label": "Giardino di Rinaldo Rigola"
+                },
+                "id16051698492231351": {
+                    "guid": "8b255c348c0a466984191de6a38bdd0d.16",
+                    "latlng": "44.493563,11.28819",
+                    "label": "Pdbear Graffiti "
+                },
+                "id1605169854799141": {
+                    "guid": "0b65464cb61a4455b3b3ab076100cc31.16",
+                    "latlng": "44.493021,11.288589",
+                    "label": "Ricordo Di Boris Vighi"
+                },
+                "id16051698573401544": {
+                    "guid": "7b1b6cdd8de9438e850810e99894af4e.16",
+                    "latlng": "44.493288,11.288116",
+                    "label": "Giardino Teresa Noce - Ingresso Via Di Vittorio"
+                },
+                "id16051698595711694": {
+                    "guid": "e7f4b9a8fae4482b9a3f7109549fa506.16",
+                    "latlng": "44.493442,11.287474",
+                    "label": "Giardino Guido Horn d'Arturo"
+                },
+                "id16051698632191755": {
+                    "guid": "83d107584e894143a906a91851e63094.16",
+                    "latlng": "44.491597,11.285103",
+                    "label": "Bologna - Il parco degli alberi"
+                },
+                "id1605169865335188": {
+                    "guid": "b8927a5046c643cf933facff8f5b703f.16",
+                    "latlng": "44.492657,11.288815",
+                    "label": "Giardino Teresa Noce - ingresso Rotonda Malaguti"
+                },
+                "id16051698460951158": {
+                    "guid": "3009f24190e34787aab3da3c18866c11.16",
+                    "latlng": "44.494334,11.285054",
+                    "label": "Giardino di piazza Giovanni XXIII"
+                },
+                "id16051698688652070": {
+                    "guid": "2be3a3dd3014448fa83203dfe835b715.16",
+                    "latlng": "44.492723,11.290442",
+                    "label": "Bocciodromo Centro Rosa Marchi"
+                },
+                "id16051698717342177": {
+                    "guid": "aedbcc9c916b4e709064fce9153e2ac1.16",
+                    "latlng": "44.492774,11.290894",
+                    "label": "Centro Sociale Rosa Marchi"
+                },
+                "id16051698670471911": {
+                    "guid": "a5b29f5023304e05a081321627d6bb65.16",
+                    "latlng": "44.492849,11.290237",
+                    "label": "Playground centro rosa Marchi"
+                },
+                "id1605169795084241": {
+                    "guid": "738151a2ee6f4b2a85c33a03c875aeb0.16",
+                    "latlng": "44.496274,11.286308",
+                    "label": "Beata Vergine di San Luca"
+                }
+            }
+        },
+        "id1605170829035096": {
+            "label": "Casteldebole",
+            "state": 0,
+            "bkmrk": {
+                "id160517084041825": {
+                    "guid": "bbee5156aa1548b9beb03c42feadb451.16",
+                    "latlng": "44.507333,11.278842",
+                    "label": "Avocado del Diavolo"
+                },
+                "id1605170841954393": {
+                    "guid": "33f51602b69f44228e3ba0e2835f6313.16",
+                    "latlng": "44.508219,11.278626",
+                    "label": "Area Sperimentale con Funzioni Ambientali"
+                },
+                "id160517084337046": {
+                    "guid": "bbab17e738fa4fdb8c2e4473dd130d39.16",
+                    "latlng": "44.507007,11.279308",
+                    "label": "Parco delle Querce - Ingresso Via Enrico de Nicola"
+                },
+                "id160517084562054": {
+                    "guid": "97d75af15c1f48138df011e452523d00.16",
+                    "latlng": "44.506592,11.278426",
+                    "label": "Playground Parco delle Querce"
+                },
+                "id1605170848403691": {
+                    "guid": "943c852152e341d7b5399d10466db5d1.16",
+                    "latlng": "44.50651,11.280772",
+                    "label": "Parco Giochi Gaetano Salvemini"
+                },
+                "id1605170850490778": {
+                    "guid": "8bdbc530730641719c9c6d00a0c3e033.16",
+                    "latlng": "44.506616,11.281517",
+                    "label": "Gazebo Ottagonale"
+                },
+                "id160517085516396": {
+                    "guid": "f897459f1dda4c259b0b5857bd26e614.16",
+                    "latlng": "44.50434,11.275068",
+                    "label": "Murales della Stazione"
+                },
+                "id16051708564101047": {
+                    "guid": "76e80dd73ac0417cbeb8ba4862e00050.16",
+                    "latlng": "44.503997,11.274923",
+                    "label": "Stazione Di Casteldebole"
+                },
+                "id16051708577541168": {
+                    "guid": "9e0af86fceaa43cf817153b9587e5a3d.16",
+                    "latlng": "44.504039,11.27428",
+                    "label": "Arco bugnato"
+                },
+                "id16051708602581317": {
+                    "guid": "90743addce8d4b07babe5f12694589e4.16",
+                    "latlng": "44.503563,11.278018",
+                    "label": "Orso Affamato"
+                },
+                "id16051708636351449": {
+                    "guid": "644ea1c88d054ff9b96957bcb8d65b7e.16",
+                    "latlng": "44.503432,11.278802",
+                    "label": "Parco Giochi De Nicola"
+                },
+                "id16051708648901548": {
+                    "guid": "c3e77a0c99394b9c81bc67c5d394dc84.16",
+                    "latlng": "44.5032,11.279637",
+                    "label": "Parco Giochi La Torretta"
+                },
+                "id16051708662591622": {
+                    "guid": "f100b8fe1de048f4b1a4d32402cb3d17.16",
+                    "latlng": "44.503308,11.282563",
+                    "label": "Il Gatto Nero"
+                },
+                "id16051708676431791": {
+                    "guid": "42c938c4c4914d22959fe09e13c89182.16",
+                    "latlng": "44.503333,11.284111",
+                    "label": "Casteldebole - Campo da softball \"Orfeo Spada\""
+                },
+                "id16051708589541217": {
+                    "guid": "4f3b7b4f5b11495196acb3358ba220c4.16",
+                    "latlng": "44.503463,11.274438",
+                    "label": "Murales Freccia Rossa"
+                },
+                "id16051708695471857": {
+                    "guid": "336a55278df348759b8ad78d84988b1e.16",
+                    "latlng": "44.502897,11.284219",
+                    "label": "Scultura \"Tre mazze e una palla\""
+                },
+                "id1605170852898840": {
+                    "guid": "2325d28dba9043b6ac1fc647d28ad3b1.16",
+                    "latlng": "44.505883,11.281742",
+                    "label": "Il Gioco del Mondo"
+                },
+                "id1605170873875213": {
+                    "guid": "82bcd0f901314e3b9585c9a7964de37a.16",
+                    "latlng": "44.502556,11.282019",
+                    "label": "Sede AIBXC - Campo sportivo Leoni"
+                },
+                "id1605170872618201": {
+                    "guid": "71141e790a3c4f05937ecc21299d4a13.16",
+                    "latlng": "44.502071,11.28252",
+                    "label": "Campo da Baseball \"Pietro Leoni\"."
+                },
+                "id16051708773222358": {
+                    "guid": "1a1a60a68e674e86ad9cf5b5cceacba0.16",
+                    "latlng": "44.502899,11.279337",
+                    "label": "Casteldebole - Torretta del Parco dei Bambù"
+                },
+                "id16051708754432273": {
+                    "guid": "a923346edf894ed7a07fbfb352d1b962.16",
+                    "latlng": "44.502517,11.281324",
+                    "label": "Parco Giochi Giardino Del Bambù"
+                },
+                "id16051708784542413": {
+                    "guid": "ea1d2e897d6140a3a8259603c5fd283c.16",
+                    "latlng": "44.503242,11.277855",
+                    "label": "Murales Marvel"
+                },
+                "id1605170879954258": {
+                    "guid": "73e8ece0ab374dcc97e51ee582fd70fe.16",
+                    "latlng": "44.502878,11.277051",
+                    "label": "Casteldebole | Centro Bacchelli"
+                },
+                "id16051708810912690": {
+                    "guid": "1c121a1099564ab982e3cf4407c1ecce.16",
+                    "latlng": "44.502633,11.27536",
+                    "label": "Parco Giochi Galeazza"
+                },
+                "id1605170836548160": {
+                    "guid": "20da4070c0674bc782a64674526520e1.16",
+                    "latlng": "44.508298,11.278934",
+                    "label": "Ponte Pedonale Casteldebole"
+                },
+                "id16051708842272996": {
+                    "guid": "6dccecda7bd6422aaba99a9879ba12f9.16",
+                    "latlng": "44.501531,11.274755",
+                    "label": "Graffito Spaziale"
+                },
+                "id1605170883053288": {
+                    "guid": "79500de549204ccc8478e2fdfa9a810b.16",
+                    "latlng": "44.50191,11.274401",
+                    "label": "Graffito Boys"
+                },
+                "id16051708860983035": {
+                    "guid": "e926431603de4745a8c5e8788367899a.16",
+                    "latlng": "44.499964,11.274877",
+                    "label": "Bassorilievo commemorativo Santa Gemma"
+                },
+                "id16051708872603183": {
+                    "guid": "2e970fdeedb643c99244bbc3858fa4ac.16",
+                    "latlng": "44.499145,11.275873",
+                    "label": "Casteldebole Monumento ai Caduti"
+                },
+                "id16051708884983278": {
+                    "guid": "e7b26d916889417893eaf6eb6deec972.16",
+                    "latlng": "44.499387,11.277217",
+                    "label": "Targa Vittime Partigiane 30 Ottobre 1944"
+                },
+                "id16051708901943375": {
+                    "guid": "8b6795adc51a4da58ce83b8b59cdaa2e.16",
+                    "latlng": "44.500826,11.277475",
+                    "label": "Chiesa Di Casteldebole"
+                },
+                "id16051708708431931": {
+                    "guid": "3cf79a106a564ce0a4834a2e73e4767e.16",
+                    "latlng": "44.502967,11.283715",
+                    "label": "Ponte pedonale su Canale del Reno"
+                },
+                "id16051708922343599": {
+                    "guid": "6ef0516e5fe14e639561b672c1cbb00e.16",
+                    "latlng": "44.501026,11.277664",
+                    "label": "Campo da Basket - Parrocchia di Casteldebole"
+                },
+                "id16051708912023475": {
+                    "guid": "76dcde7eb1aa4c7eb0166327c6b42093.16",
+                    "latlng": "44.501131,11.277114",
+                    "label": "Campanile Chiesa Casteldebole"
+                },
+                "id16051709041634174": {
+                    "guid": "568998094eb74355a2c03dd05169dd14.16",
+                    "latlng": "44.500972,11.278303",
+                    "label": "Casteldebole - Poste Italiane"
+                },
+                "id16051709019694096": {
+                    "guid": "89c94e1301294a9dbe5f371803ef3681.16",
+                    "latlng": "44.502137,11.282104",
+                    "label": "Murales Baseball"
+                },
+                "id16051708989133981": {
+                    "guid": "dcb18adadcdf43f9b992b9ee89e0c549.16",
+                    "latlng": "44.502043,11.281691",
+                    "label": "Casteldebole Centro Sportivo"
+                },
+                "id16051709084584357": {
+                    "guid": "a58f860cd0bb4cce9eb989ee04c594fe.16",
+                    "latlng": "44.501196,11.282181",
+                    "label": "Casteldebole - Campo da calcio a 5"
+                },
+                "id16051709103704427": {
+                    "guid": "bd1dcb55ebd942e4a257cd59b94ccca2.16",
+                    "latlng": "44.500439,11.280343",
+                    "label": "Parco Giochi Casteldebole"
+                },
+                "id16051709068674261": {
+                    "guid": "a1f220aa29564048a56e960d1fc310cd.16",
+                    "latlng": "44.501152,11.280999",
+                    "label": "Casteldebole - Campo da calcio pubblico"
+                },
+                "id16051708962423790": {
+                    "guid": "ecc1380893fa4ef587a1f9607fd669aa.16",
+                    "latlng": "44.501343,11.280764",
+                    "label": "Monumento Brigata Bolero"
+                },
+                "id16051708820422754": {
+                    "guid": "d9518c53514d46959b3799fa61a5c55b.16",
+                    "latlng": "44.502159,11.275734",
+                    "label": "Bronzo di Santa Gemma"
+                },
+                "id16051708979103815": {
+                    "guid": "28059155be81431bafe1031654a51d68.16",
+                    "latlng": "44.502278,11.281461",
+                    "label": "Casteldebole - Basketball Court nel Giardino dei Bambù"
+                }
+            }
+        },
+        "idOthers": {
+            "label": "Others",
+            "state": 1,
+            "bkmrk": {}
+        }
+    }
+}
